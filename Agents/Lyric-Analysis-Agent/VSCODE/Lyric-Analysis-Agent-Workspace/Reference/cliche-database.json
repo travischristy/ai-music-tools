@@ -1,0 +1,42 @@
+{
+    "common_cliches": [
+        "time heals all wounds",
+        "love at first sight",
+        "broken heart",
+        "meant to be",
+        "forever and always",
+        "never let you go",
+        "all I need",
+        "my world",
+        "baby come back",
+        "can't live without you",
+        "dance the night away",
+        "heart of gold",
+        "lost in your eyes",
+        "take my breath away",
+        "true love"
+    ],
+    "restricted_words": {
+        "overused_adjectives": [
+            "amazing",
+            "beautiful",
+            "crazy",
+            "perfect",
+            "wonderful"
+        ],
+        "weak_verbs": [
+            "be",
+            "get",
+            "have",
+            "make",
+            "take"
+        ],
+        "filler_words": [
+            "just",
+            "really",
+            "very",
+            "like",
+            "so"
+        ]
+    }
+}

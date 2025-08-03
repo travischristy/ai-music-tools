@@ -1,0 +1,33 @@
+
+BANNED WORDS DATABASE UPDATE SUMMARY
+=====================================
+
+Original database entries: 0
+New entries added: 220
+Total entries after update: 220
+
+SEVERITY BREAKDOWN:
+severity
+CRITICAL    220
+
+PHRASE TYPE BREAKDOWN:
+phrase_type
+bigram     200
+trigram     20
+
+TOP 10 HIGHEST WEIGHTED SCORES:
+  'find way' - Score: 10854.0, Severity: CRITICAL
+  'feel like' - Score: 8721.0, Severity: CRITICAL
+  'let go' - Score: 8242.0, Severity: CRITICAL
+  'every step' - Score: 6021.0, Severity: CRITICAL
+  'can't see' - Score: 5315.0, Severity: CRITICAL
+  'every tear' - Score: 4239.0, Severity: CRITICAL
+  'hold tight' - Score: 4089.0, Severity: CRITICAL
+  'every moment' - Score: 3966.0, Severity: CRITICAL
+  'stand tall' - Score: 3676.0, Severity: CRITICAL
+  'break free' - Score: 3380.0, Severity: CRITICAL
+
+FILES GENERATED:
+- enhanced_banned_words_database.csv
+- enhanced_banned_words_database.xlsx
+- database_update_report.txt

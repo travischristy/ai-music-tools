@@ -1,0 +1,1864 @@
+{
+  "analysis_summary": {
+    "total_unique_bigrams": 875761,
+    "total_unique_trigrams": 1893160,
+    "high_frequency_bigrams": 200,
+    "high_frequency_trigrams": 20
+  },
+  "top_cliche_bigrams": [
+    {
+      "phrase": "find way",
+      "raw_frequency": 10854,
+      "contextual_weight": 1.0,
+      "weighted_score": 10854.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "feel like",
+      "raw_frequency": 8721,
+      "contextual_weight": 1.0,
+      "weighted_score": 8721.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "let go",
+      "raw_frequency": 8242,
+      "contextual_weight": 1.0,
+      "weighted_score": 8242.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every step",
+      "raw_frequency": 6021,
+      "contextual_weight": 1.0,
+      "weighted_score": 6021.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "can't see",
+      "raw_frequency": 5315,
+      "contextual_weight": 1.0,
+      "weighted_score": 5315.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every tear",
+      "raw_frequency": 2826,
+      "contextual_weight": 1.5,
+      "weighted_score": 4239.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "hold tight",
+      "raw_frequency": 4089,
+      "contextual_weight": 1.0,
+      "weighted_score": 4089.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every moment",
+      "raw_frequency": 3966,
+      "contextual_weight": 1.0,
+      "weighted_score": 3966.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "stand tall",
+      "raw_frequency": 3676,
+      "contextual_weight": 1.0,
+      "weighted_score": 3676.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "break free",
+      "raw_frequency": 3380,
+      "contextual_weight": 1.0,
+      "weighted_score": 3380.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "find peace",
+      "raw_frequency": 3094,
+      "contextual_weight": 1.0,
+      "weighted_score": 3094.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "trying find",
+      "raw_frequency": 3047,
+      "contextual_weight": 1.0,
+      "weighted_score": 3047.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "breaking free",
+      "raw_frequency": 3010,
+      "contextual_weight": 1.0,
+      "weighted_score": 3010.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "can't escape",
+      "raw_frequency": 3002,
+      "contextual_weight": 1.0,
+      "weighted_score": 3002.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "fade away",
+      "raw_frequency": 3711,
+      "contextual_weight": 0.8,
+      "weighted_score": 2968.8,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "set free",
+      "raw_frequency": 2907,
+      "contextual_weight": 1.0,
+      "weighted_score": 2907.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "can't find",
+      "raw_frequency": 2890,
+      "contextual_weight": 1.0,
+      "weighted_score": 2890.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every day",
+      "raw_frequency": 3519,
+      "contextual_weight": 0.8,
+      "weighted_score": 2815.2000000000003,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "step take",
+      "raw_frequency": 2751,
+      "contextual_weight": 1.0,
+      "weighted_score": 2751.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "broken heart",
+      "raw_frequency": 1744,
+      "contextual_weight": 1.5,
+      "weighted_score": 2616.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "deep inside",
+      "raw_frequency": 2588,
+      "contextual_weight": 1.0,
+      "weighted_score": 2588.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "find strength",
+      "raw_frequency": 2562,
+      "contextual_weight": 1.0,
+      "weighted_score": 2562.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every breath",
+      "raw_frequency": 2549,
+      "contextual_weight": 1.0,
+      "weighted_score": 2549.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "break chain",
+      "raw_frequency": 2539,
+      "contextual_weight": 1.0,
+      "weighted_score": 2539.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "feel right",
+      "raw_frequency": 2528,
+      "contextual_weight": 1.0,
+      "weighted_score": 2528.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "ooh ooh",
+      "raw_frequency": 2503,
+      "contextual_weight": 1.0,
+      "weighted_score": 2503.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "heart beat",
+      "raw_frequency": 1652,
+      "contextual_weight": 1.5,
+      "weighted_score": 2478.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every time",
+      "raw_frequency": 2469,
+      "contextual_weight": 1.0,
+      "weighted_score": 2469.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every word",
+      "raw_frequency": 2468,
+      "contextual_weight": 1.0,
+      "weighted_score": 2468.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every night",
+      "raw_frequency": 3021,
+      "contextual_weight": 0.8,
+      "weighted_score": 2416.8,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "hand hand",
+      "raw_frequency": 2347,
+      "contextual_weight": 1.0,
+      "weighted_score": 2347.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "living life",
+      "raw_frequency": 2313,
+      "contextual_weight": 1.0,
+      "weighted_score": 2313.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "high low",
+      "raw_frequency": 2296,
+      "contextual_weight": 1.0,
+      "weighted_score": 2296.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "hold close",
+      "raw_frequency": 2239,
+      "contextual_weight": 1.0,
+      "weighted_score": 2239.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "chasing dream",
+      "raw_frequency": 1456,
+      "contextual_weight": 1.5,
+      "weighted_score": 2184.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "city light",
+      "raw_frequency": 2691,
+      "contextual_weight": 0.8,
+      "weighted_score": 2152.8,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "eye see",
+      "raw_frequency": 2142,
+      "contextual_weight": 1.0,
+      "weighted_score": 2142.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every heartbeat",
+      "raw_frequency": 1403,
+      "contextual_weight": 1.5,
+      "weighted_score": 2104.5,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "find light",
+      "raw_frequency": 2625,
+      "contextual_weight": 0.8,
+      "weighted_score": 2100.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "left behind",
+      "raw_frequency": 2052,
+      "contextual_weight": 1.0,
+      "weighted_score": 2052.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "darkest night",
+      "raw_frequency": 2493,
+      "contextual_weight": 0.8,
+      "weighted_score": 1994.4,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "endless night",
+      "raw_frequency": 2458,
+      "contextual_weight": 0.8,
+      "weighted_score": 1966.4,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "love never",
+      "raw_frequency": 1572,
+      "contextual_weight": 1.2000000000000002,
+      "weighted_score": 1886.4000000000003,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "broken dream",
+      "raw_frequency": 1250,
+      "contextual_weight": 1.5,
+      "weighted_score": 1875.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "can't break",
+      "raw_frequency": 1872,
+      "contextual_weight": 1.0,
+      "weighted_score": 1872.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "love like",
+      "raw_frequency": 1553,
+      "contextual_weight": 1.2000000000000002,
+      "weighted_score": 1863.6000000000004,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "tearing apart",
+      "raw_frequency": 1227,
+      "contextual_weight": 1.5,
+      "weighted_score": 1840.5,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "find place",
+      "raw_frequency": 1834,
+      "contextual_weight": 1.0,
+      "weighted_score": 1834.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "see face",
+      "raw_frequency": 1820,
+      "contextual_weight": 1.0,
+      "weighted_score": 1820.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "feel alive",
+      "raw_frequency": 1784,
+      "contextual_weight": 1.0,
+      "weighted_score": 1784.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "heart still",
+      "raw_frequency": 1099,
+      "contextual_weight": 1.5,
+      "weighted_score": 1648.5,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every scar",
+      "raw_frequency": 1643,
+      "contextual_weight": 1.0,
+      "weighted_score": 1643.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "come back",
+      "raw_frequency": 1616,
+      "contextual_weight": 1.0,
+      "weighted_score": 1616.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "mmm mmm",
+      "raw_frequency": 1612,
+      "contextual_weight": 1.0,
+      "weighted_score": 1612.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "love love",
+      "raw_frequency": 1327,
+      "contextual_weight": 1.2000000000000002,
+      "weighted_score": 1592.4000000000003,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "can't let",
+      "raw_frequency": 1532,
+      "contextual_weight": 1.0,
+      "weighted_score": 1532.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "standing tall",
+      "raw_frequency": 1522,
+      "contextual_weight": 1.0,
+      "weighted_score": 1522.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "love that's",
+      "raw_frequency": 1267,
+      "contextual_weight": 1.2000000000000002,
+      "weighted_score": 1520.4000000000003,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "leave behind",
+      "raw_frequency": 1518,
+      "contextual_weight": 1.0,
+      "weighted_score": 1518.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every touch",
+      "raw_frequency": 1501,
+      "contextual_weight": 1.0,
+      "weighted_score": 1501.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "like dream",
+      "raw_frequency": 984,
+      "contextual_weight": 1.5,
+      "weighted_score": 1476.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "way back",
+      "raw_frequency": 1420,
+      "contextual_weight": 1.0,
+      "weighted_score": 1420.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "make right",
+      "raw_frequency": 1377,
+      "contextual_weight": 1.0,
+      "weighted_score": 1377.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "say goodbye",
+      "raw_frequency": 1357,
+      "contextual_weight": 1.0,
+      "weighted_score": 1357.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "late night",
+      "raw_frequency": 1671,
+      "contextual_weight": 0.8,
+      "weighted_score": 1336.8000000000002,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "wish could",
+      "raw_frequency": 1333,
+      "contextual_weight": 1.0,
+      "weighted_score": 1333.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "turn back",
+      "raw_frequency": 1327,
+      "contextual_weight": 1.0,
+      "weighted_score": 1327.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "mirror see",
+      "raw_frequency": 1326,
+      "contextual_weight": 1.0,
+      "weighted_score": 1326.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "shine bright",
+      "raw_frequency": 1307,
+      "contextual_weight": 1.0,
+      "weighted_score": 1307.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "letting go",
+      "raw_frequency": 1305,
+      "contextual_weight": 1.0,
+      "weighted_score": 1305.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "neon light",
+      "raw_frequency": 1622,
+      "contextual_weight": 0.8,
+      "weighted_score": 1297.6000000000001,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "lost echo",
+      "raw_frequency": 1296,
+      "contextual_weight": 1.0,
+      "weighted_score": 1296.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "brand new",
+      "raw_frequency": 1268,
+      "contextual_weight": 1.0,
+      "weighted_score": 1268.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "see light",
+      "raw_frequency": 1581,
+      "contextual_weight": 0.8,
+      "weighted_score": 1264.8000000000002,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every whisper",
+      "raw_frequency": 1261,
+      "contextual_weight": 1.0,
+      "weighted_score": 1261.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "oh-oh oh-oh",
+      "raw_frequency": 1254,
+      "contextual_weight": 1.0,
+      "weighted_score": 1254.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "come may",
+      "raw_frequency": 1252,
+      "contextual_weight": 1.0,
+      "weighted_score": 1252.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "looking back",
+      "raw_frequency": 1249,
+      "contextual_weight": 1.0,
+      "weighted_score": 1249.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "make feel",
+      "raw_frequency": 1244,
+      "contextual_weight": 1.0,
+      "weighted_score": 1244.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "feel pain",
+      "raw_frequency": 823,
+      "contextual_weight": 1.5,
+      "weighted_score": 1234.5,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "cut deep",
+      "raw_frequency": 1225,
+      "contextual_weight": 1.0,
+      "weighted_score": 1225.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "call name",
+      "raw_frequency": 1224,
+      "contextual_weight": 1.0,
+      "weighted_score": 1224.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "rise fall",
+      "raw_frequency": 1222,
+      "contextual_weight": 1.0,
+      "weighted_score": 1222.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "shining bright",
+      "raw_frequency": 1218,
+      "contextual_weight": 1.0,
+      "weighted_score": 1218.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "can't deny",
+      "raw_frequency": 1214,
+      "contextual_weight": 1.0,
+      "weighted_score": 1214.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "arm find",
+      "raw_frequency": 1206,
+      "contextual_weight": 1.0,
+      "weighted_score": 1206.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "world feel",
+      "raw_frequency": 1204,
+      "contextual_weight": 1.0,
+      "weighted_score": 1204.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "living dream",
+      "raw_frequency": 798,
+      "contextual_weight": 1.5,
+      "weighted_score": 1197.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "love find",
+      "raw_frequency": 993,
+      "contextual_weight": 1.2000000000000002,
+      "weighted_score": 1191.6000000000001,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every single",
+      "raw_frequency": 1189,
+      "contextual_weight": 1.0,
+      "weighted_score": 1189.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "one day",
+      "raw_frequency": 1483,
+      "contextual_weight": 0.8,
+      "weighted_score": 1186.4,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "never fade",
+      "raw_frequency": 1183,
+      "contextual_weight": 1.0,
+      "weighted_score": 1183.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "love feel",
+      "raw_frequency": 982,
+      "contextual_weight": 1.2000000000000002,
+      "weighted_score": 1178.4,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "heart feel",
+      "raw_frequency": 781,
+      "contextual_weight": 1.5,
+      "weighted_score": 1171.5,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "rise rise",
+      "raw_frequency": 1170,
+      "contextual_weight": 1.0,
+      "weighted_score": 1170.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "never let",
+      "raw_frequency": 1166,
+      "contextual_weight": 1.0,
+      "weighted_score": 1166.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "quiet night",
+      "raw_frequency": 1456,
+      "contextual_weight": 0.8,
+      "weighted_score": 1164.8,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "moment feel",
+      "raw_frequency": 1145,
+      "contextual_weight": 1.0,
+      "weighted_score": 1145.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "echo past",
+      "raw_frequency": 1120,
+      "contextual_weight": 1.0,
+      "weighted_score": 1120.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "like star",
+      "raw_frequency": 1116,
+      "contextual_weight": 1.0,
+      "weighted_score": 1116.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "wild free",
+      "raw_frequency": 1115,
+      "contextual_weight": 1.0,
+      "weighted_score": 1115.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "night long",
+      "raw_frequency": 1390,
+      "contextual_weight": 0.8,
+      "weighted_score": 1112.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "can't seem",
+      "raw_frequency": 1097,
+      "contextual_weight": 1.0,
+      "weighted_score": 1097.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "far away",
+      "raw_frequency": 1369,
+      "contextual_weight": 0.8,
+      "weighted_score": 1095.2,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "morning light",
+      "raw_frequency": 1368,
+      "contextual_weight": 0.8,
+      "weighted_score": 1094.4,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "breaking chain",
+      "raw_frequency": 1092,
+      "contextual_weight": 1.0,
+      "weighted_score": 1092.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "take hand",
+      "raw_frequency": 1090,
+      "contextual_weight": 1.0,
+      "weighted_score": 1090.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "love can't",
+      "raw_frequency": 897,
+      "contextual_weight": 1.2000000000000002,
+      "weighted_score": 1076.4,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "close eye",
+      "raw_frequency": 1068,
+      "contextual_weight": 1.0,
+      "weighted_score": 1068.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "free chain",
+      "raw_frequency": 1060,
+      "contextual_weight": 1.0,
+      "weighted_score": 1060.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "know know",
+      "raw_frequency": 1057,
+      "contextual_weight": 1.0,
+      "weighted_score": 1057.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "slip away",
+      "raw_frequency": 1310,
+      "contextual_weight": 0.8,
+      "weighted_score": 1048.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every move",
+      "raw_frequency": 1045,
+      "contextual_weight": 1.0,
+      "weighted_score": 1045.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "back time",
+      "raw_frequency": 1038,
+      "contextual_weight": 1.0,
+      "weighted_score": 1038.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every storm",
+      "raw_frequency": 1037,
+      "contextual_weight": 1.0,
+      "weighted_score": 1037.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "word say",
+      "raw_frequency": 1033,
+      "contextual_weight": 1.0,
+      "weighted_score": 1033.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "holding tight",
+      "raw_frequency": 1032,
+      "contextual_weight": 1.0,
+      "weighted_score": 1032.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "burning bright",
+      "raw_frequency": 1027,
+      "contextual_weight": 1.0,
+      "weighted_score": 1027.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "living like",
+      "raw_frequency": 1020,
+      "contextual_weight": 1.0,
+      "weighted_score": 1020.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "back home",
+      "raw_frequency": 1012,
+      "contextual_weight": 1.0,
+      "weighted_score": 1012.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "lost shadow",
+      "raw_frequency": 1010,
+      "contextual_weight": 1.0,
+      "weighted_score": 1010.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "like ghost",
+      "raw_frequency": 992,
+      "contextual_weight": 1.0,
+      "weighted_score": 992.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "can't hide",
+      "raw_frequency": 989,
+      "contextual_weight": 1.0,
+      "weighted_score": 989.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "ah ah",
+      "raw_frequency": 988,
+      "contextual_weight": 1.0,
+      "weighted_score": 988.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "take back",
+      "raw_frequency": 980,
+      "contextual_weight": 1.0,
+      "weighted_score": 980.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "guiding light",
+      "raw_frequency": 1220,
+      "contextual_weight": 0.8,
+      "weighted_score": 976.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "everything feel",
+      "raw_frequency": 962,
+      "contextual_weight": 1.0,
+      "weighted_score": 962.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "let love",
+      "raw_frequency": 800,
+      "contextual_weight": 1.2000000000000002,
+      "weighted_score": 960.0000000000001,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "night day",
+      "raw_frequency": 1495,
+      "contextual_weight": 0.6400000000000001,
+      "weighted_score": 956.8000000000002,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every kiss",
+      "raw_frequency": 956,
+      "contextual_weight": 1.0,
+      "weighted_score": 956.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "u apart",
+      "raw_frequency": 953,
+      "contextual_weight": 1.0,
+      "weighted_score": 953.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "feel weight",
+      "raw_frequency": 946,
+      "contextual_weight": 1.0,
+      "weighted_score": 946.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "shadow night",
+      "raw_frequency": 1180,
+      "contextual_weight": 0.8,
+      "weighted_score": 944.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "take flight",
+      "raw_frequency": 1180,
+      "contextual_weight": 0.8,
+      "weighted_score": 944.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "can't get",
+      "raw_frequency": 943,
+      "contextual_weight": 1.0,
+      "weighted_score": 943.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "see love",
+      "raw_frequency": 782,
+      "contextual_weight": 1.2000000000000002,
+      "weighted_score": 938.4000000000001,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "side side",
+      "raw_frequency": 936,
+      "contextual_weight": 1.0,
+      "weighted_score": 936.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "silent scream",
+      "raw_frequency": 933,
+      "contextual_weight": 1.0,
+      "weighted_score": 933.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "lost way",
+      "raw_frequency": 933,
+      "contextual_weight": 1.0,
+      "weighted_score": 933.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "find love",
+      "raw_frequency": 769,
+      "contextual_weight": 1.2000000000000002,
+      "weighted_score": 922.8000000000002,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "night feel",
+      "raw_frequency": 1152,
+      "contextual_weight": 0.8,
+      "weighted_score": 921.6,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "story told",
+      "raw_frequency": 907,
+      "contextual_weight": 1.0,
+      "weighted_score": 907.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "found way",
+      "raw_frequency": 903,
+      "contextual_weight": 1.0,
+      "weighted_score": 903.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "world cold",
+      "raw_frequency": 900,
+      "contextual_weight": 1.0,
+      "weighted_score": 900.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "deep within",
+      "raw_frequency": 900,
+      "contextual_weight": 1.0,
+      "weighted_score": 900.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "living edge",
+      "raw_frequency": 898,
+      "contextual_weight": 1.0,
+      "weighted_score": 898.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "let's go",
+      "raw_frequency": 889,
+      "contextual_weight": 1.0,
+      "weighted_score": 889.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "endless fight",
+      "raw_frequency": 883,
+      "contextual_weight": 1.0,
+      "weighted_score": 883.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "know name",
+      "raw_frequency": 882,
+      "contextual_weight": 1.0,
+      "weighted_score": 882.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "torn apart",
+      "raw_frequency": 882,
+      "contextual_weight": 1.0,
+      "weighted_score": 882.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "lose control",
+      "raw_frequency": 867,
+      "contextual_weight": 1.0,
+      "weighted_score": 867.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every corner",
+      "raw_frequency": 866,
+      "contextual_weight": 1.0,
+      "weighted_score": 866.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "silence night",
+      "raw_frequency": 1081,
+      "contextual_weight": 0.8,
+      "weighted_score": 864.8000000000001,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every beat",
+      "raw_frequency": 860,
+      "contextual_weight": 1.0,
+      "weighted_score": 860.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "round round",
+      "raw_frequency": 856,
+      "contextual_weight": 1.0,
+      "weighted_score": 856.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "make whole",
+      "raw_frequency": 855,
+      "contextual_weight": 1.0,
+      "weighted_score": 855.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "lost maze",
+      "raw_frequency": 854,
+      "contextual_weight": 1.0,
+      "weighted_score": 854.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "never end",
+      "raw_frequency": 853,
+      "contextual_weight": 1.0,
+      "weighted_score": 853.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "world that's",
+      "raw_frequency": 852,
+      "contextual_weight": 1.0,
+      "weighted_score": 852.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "come alive",
+      "raw_frequency": 851,
+      "contextual_weight": 1.0,
+      "weighted_score": 851.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "let's make",
+      "raw_frequency": 849,
+      "contextual_weight": 1.0,
+      "weighted_score": 849.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "fall apart",
+      "raw_frequency": 843,
+      "contextual_weight": 1.0,
+      "weighted_score": 843.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "touch sky",
+      "raw_frequency": 839,
+      "contextual_weight": 1.0,
+      "weighted_score": 839.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "stay true",
+      "raw_frequency": 838,
+      "contextual_weight": 1.0,
+      "weighted_score": 838.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "shadow mind",
+      "raw_frequency": 834,
+      "contextual_weight": 1.0,
+      "weighted_score": 834.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "living moment",
+      "raw_frequency": 834,
+      "contextual_weight": 1.0,
+      "weighted_score": 834.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "feeling like",
+      "raw_frequency": 829,
+      "contextual_weight": 1.0,
+      "weighted_score": 829.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "together stand",
+      "raw_frequency": 829,
+      "contextual_weight": 1.0,
+      "weighted_score": 829.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "holding onto",
+      "raw_frequency": 825,
+      "contextual_weight": 1.0,
+      "weighted_score": 825.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "caught web",
+      "raw_frequency": 823,
+      "contextual_weight": 1.0,
+      "weighted_score": 823.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "hold hand",
+      "raw_frequency": 803,
+      "contextual_weight": 1.0,
+      "weighted_score": 803.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "never alone",
+      "raw_frequency": 803,
+      "contextual_weight": 1.0,
+      "weighted_score": 803.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "stand ground",
+      "raw_frequency": 802,
+      "contextual_weight": 1.0,
+      "weighted_score": 802.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "together rise",
+      "raw_frequency": 796,
+      "contextual_weight": 1.0,
+      "weighted_score": 796.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "lost within",
+      "raw_frequency": 796,
+      "contextual_weight": 1.0,
+      "weighted_score": 796.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "chasing shadow",
+      "raw_frequency": 795,
+      "contextual_weight": 1.0,
+      "weighted_score": 795.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "stand alone",
+      "raw_frequency": 791,
+      "contextual_weight": 1.0,
+      "weighted_score": 791.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "can't feel",
+      "raw_frequency": 790,
+      "contextual_weight": 1.0,
+      "weighted_score": 790.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "keep moving",
+      "raw_frequency": 782,
+      "contextual_weight": 1.0,
+      "weighted_score": 782.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "another day",
+      "raw_frequency": 975,
+      "contextual_weight": 0.8,
+      "weighted_score": 780.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "like shadow",
+      "raw_frequency": 780,
+      "contextual_weight": 1.0,
+      "weighted_score": 780.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "night every",
+      "raw_frequency": 974,
+      "contextual_weight": 0.8,
+      "weighted_score": 779.2,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "hear call",
+      "raw_frequency": 777,
+      "contextual_weight": 1.0,
+      "weighted_score": 777.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "echo mind",
+      "raw_frequency": 776,
+      "contextual_weight": 1.0,
+      "weighted_score": 776.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "walk away",
+      "raw_frequency": 968,
+      "contextual_weight": 0.8,
+      "weighted_score": 774.4000000000001,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "whoa-oh whoa-oh",
+      "raw_frequency": 773,
+      "contextual_weight": 1.0,
+      "weighted_score": 773.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "hear voice",
+      "raw_frequency": 771,
+      "contextual_weight": 1.0,
+      "weighted_score": 771.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "echo laughter",
+      "raw_frequency": 771,
+      "contextual_weight": 1.0,
+      "weighted_score": 771.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "still feel",
+      "raw_frequency": 763,
+      "contextual_weight": 1.0,
+      "weighted_score": 763.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "brighter day",
+      "raw_frequency": 952,
+      "contextual_weight": 0.8,
+      "weighted_score": 761.6,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "see world",
+      "raw_frequency": 761,
+      "contextual_weight": 1.0,
+      "weighted_score": 761.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "feel beat",
+      "raw_frequency": 760,
+      "contextual_weight": 1.0,
+      "weighted_score": 760.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "light every",
+      "raw_frequency": 934,
+      "contextual_weight": 0.8,
+      "weighted_score": 747.2,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "night find",
+      "raw_frequency": 931,
+      "contextual_weight": 0.8,
+      "weighted_score": 744.8000000000001,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "searching light",
+      "raw_frequency": 899,
+      "contextual_weight": 0.8,
+      "weighted_score": 719.2,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "dead night",
+      "raw_frequency": 875,
+      "contextual_weight": 0.8,
+      "weighted_score": 700.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "fire burning",
+      "raw_frequency": 807,
+      "contextual_weight": 0.8,
+      "weighted_score": 645.6,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "shadow light",
+      "raw_frequency": 777,
+      "contextual_weight": 0.8,
+      "weighted_score": 621.6,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "break away",
+      "raw_frequency": 771,
+      "contextual_weight": 0.8,
+      "weighted_score": 616.8000000000001,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "day night",
+      "raw_frequency": 826,
+      "contextual_weight": 0.6400000000000001,
+      "weighted_score": 528.6400000000001,
+      "severity": "HIGH"
+    }
+  ],
+  "top_cliche_trigrams": [
+    {
+      "phrase": "every step take",
+      "raw_frequency": 2465,
+      "contextual_weight": 1.0,
+      "weighted_score": 2465.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "ooh ooh ooh",
+      "raw_frequency": 1154,
+      "contextual_weight": 1.0,
+      "weighted_score": 1154.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "can't let go",
+      "raw_frequency": 1093,
+      "contextual_weight": 1.0,
+      "weighted_score": 1093.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "find way back",
+      "raw_frequency": 1093,
+      "contextual_weight": 1.0,
+      "weighted_score": 1093.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "can't find way",
+      "raw_frequency": 1031,
+      "contextual_weight": 1.0,
+      "weighted_score": 1031.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "trying find way",
+      "raw_frequency": 923,
+      "contextual_weight": 1.0,
+      "weighted_score": 923.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "can't break free",
+      "raw_frequency": 868,
+      "contextual_weight": 1.0,
+      "weighted_score": 868.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every tear every",
+      "raw_frequency": 514,
+      "contextual_weight": 1.5,
+      "weighted_score": 771.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every moment feel",
+      "raw_frequency": 748,
+      "contextual_weight": 1.0,
+      "weighted_score": 748.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "turn back time",
+      "raw_frequency": 733,
+      "contextual_weight": 1.0,
+      "weighted_score": 733.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "everything feel right",
+      "raw_frequency": 665,
+      "contextual_weight": 1.0,
+      "weighted_score": 665.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every breath take",
+      "raw_frequency": 657,
+      "contextual_weight": 1.0,
+      "weighted_score": 657.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "could turn back",
+      "raw_frequency": 646,
+      "contextual_weight": 1.0,
+      "weighted_score": 646.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "mmm mmm mmm",
+      "raw_frequency": 609,
+      "contextual_weight": 1.0,
+      "weighted_score": 609.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "never let go",
+      "raw_frequency": 604,
+      "contextual_weight": 1.0,
+      "weighted_score": 604.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "ah ah ah",
+      "raw_frequency": 567,
+      "contextual_weight": 1.0,
+      "weighted_score": 567.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every step feel",
+      "raw_frequency": 556,
+      "contextual_weight": 1.0,
+      "weighted_score": 556.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "every whisper every",
+      "raw_frequency": 510,
+      "contextual_weight": 1.0,
+      "weighted_score": 510.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "way back home",
+      "raw_frequency": 502,
+      "contextual_weight": 1.0,
+      "weighted_score": 502.0,
+      "severity": "HIGH"
+    },
+    {
+      "phrase": "moment feel like",
+      "raw_frequency": 502,
+      "contextual_weight": 1.0,
+      "weighted_score": 502.0,
+      "severity": "HIGH"
+    }
+  ],
+  "structural_patterns": {
+    "most_common_pos_bigrams": [
+      [
+        "NN_NN",
+        711753
+      ],
+      [
+        "JJ_NN",
+        314645
+      ],
+      [
+        "NN_JJ",
+        187361
+      ],
+      [
+        "NN_NNS",
+        180346
+      ],
+      [
+        "NN_VBP",
+        173713
+      ],
+      [
+        "VB_NN",
+        169973
+      ],
+      [
+        "VBP_NN",
+        155929
+      ],
+      [
+        "NN_VB",
+        145005
+      ],
+      [
+        "NNS_VBP",
+        131266
+      ],
+      [
+        "NNS_NN",
+        125621
+      ],
+      [
+        "VBG_NN",
+        109946
+      ],
+      [
+        "NN_VBG",
+        109128
+      ],
+      [
+        "JJ_NNS",
+        108753
+      ],
+      [
+        "NN_VBD",
+        106249
+      ],
+      [
+        "NN_''",
+        103884
+      ],
+      [
+        "NN_VBZ",
+        94393
+      ],
+      [
+        "NN_RB",
+        78893
+      ],
+      [
+        "VBD_NN",
+        78768
+      ],
+      [
+        "JJ_JJ",
+        75822
+      ],
+      [
+        "DT_NN",
+        75752
+      ]
+    ],
+    "most_common_pos_trigrams": [
+      [
+        "NN_NN_NN",
+        245840
+      ],
+      [
+        "JJ_NN_NN",
+        107297
+      ],
+      [
+        "NN_JJ_NN",
+        94108
+      ],
+      [
+        "NN_NN_JJ",
+        63272
+      ],
+      [
+        "NN_VBP_NN",
+        60304
+      ],
+      [
+        "NN_NN_NNS",
+        58498
+      ],
+      [
+        "NN_VB_NN",
+        57838
+      ],
+      [
+        "NN_NN_VBP",
+        57635
+      ],
+      [
+        "VB_NN_NN",
+        55181
+      ],
+      [
+        "VBP_NN_NN",
+        51665
+      ],
+      [
+        "NN_NN_VB",
+        48607
+      ],
+      [
+        "NN_NNS_VBP",
+        41387
+      ],
+      [
+        "NN_VBG_NN",
+        40681
+      ],
+      [
+        "NNS_NN_NN",
+        40139
+      ],
+      [
+        "NNS_VBP_NN",
+        39856
+      ],
+      [
+        "NN_VBD_NN",
+        39841
+      ],
+      [
+        "NN_NN_''",
+        38478
+      ],
+      [
+        "NN_''_NN",
+        38077
+      ],
+      [
+        "NN_NNS_NN",
+        37580
+      ],
+      [
+        "VBG_NN_NN",
+        36494
+      ]
+    ]
+  },
+  "semantic_clusters": {
+    "35": [
+      "find way"
+    ],
+    "37": [
+      "feel like"
+    ],
+    "34": [
+      "let go"
+    ],
+    "5": [
+      "every step",
+      "step take"
+    ],
+    "13": [
+      "can't see",
+      "can't find"
+    ],
+    "8": [
+      "hold tight"
+    ],
+    "23": [
+      "every moment"
+    ],
+    "24": [
+      "fade away"
+    ],
+    "7": [
+      "stand tall"
+    ],
+    "12": [
+      "every day"
+    ],
+    "3": [
+      "break free"
+    ],
+    "31": [
+      "find peace"
+    ],
+    "27": [
+      "trying find"
+    ],
+    "4": [
+      "every night"
+    ],
+    "21": [
+      "breaking free"
+    ],
+    "29": [
+      "can't escape"
+    ],
+    "17": [
+      "set free"
+    ],
+    "0": [
+      "every tear"
+    ],
+    "41": [
+      "city light"
+    ],
+    "10": [
+      "find light",
+      "see light"
+    ],
+    "22": [
+      "deep inside"
+    ],
+    "42": [
+      "find strength"
+    ],
+    "36": [
+      "every breath"
+    ],
+    "20": [
+      "break chain"
+    ],
+    "6": [
+      "feel right"
+    ],
+    "9": [
+      "ooh ooh"
+    ],
+    "43": [
+      "darkest night"
+    ],
+    "28": [
+      "every time"
+    ],
+    "33": [
+      "every word"
+    ],
+    "44": [
+      "endless night"
+    ],
+    "30": [
+      "hand hand"
+    ],
+    "19": [
+      "living life"
+    ],
+    "18": [
+      "high low"
+    ],
+    "32": [
+      "hold close"
+    ],
+    "16": [
+      "eye see"
+    ],
+    "11": [
+      "left behind"
+    ],
+    "46": [
+      "can't break"
+    ],
+    "15": [
+      "find place"
+    ],
+    "14": [
+      "see face"
+    ],
+    "26": [
+      "feel alive"
+    ],
+    "2": [
+      "broken heart"
+    ],
+    "38": [
+      "late night"
+    ],
+    "40": [
+      "heart beat"
+    ],
+    "25": [
+      "every scar"
+    ],
+    "45": [
+      "neon light"
+    ],
+    "1": [
+      "come back"
+    ],
+    "39": [
+      "mmm mmm"
+    ]
+  }
+}

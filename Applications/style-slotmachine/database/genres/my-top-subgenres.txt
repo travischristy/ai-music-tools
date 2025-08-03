@@ -1,0 +1,112 @@
+Top sub-genres	Precentage %
+ folk pop	3
+ indie folk	2
+ dream pop	2
+ nu disco	2
+ tropical house	2
+ folk	1
+ pop	1
+ motown	1
+ emo	1
+ chillwave	1
+ soul	1
+ soft rock	1
+ classic rock	1
+ pop punk	1.0
+ emo pop	1.0
+ indie dance	1.0
+ northern soul	0.9
+ christian folk	0.8
+ indie	0.8
+ indie electronic	0.8
+ christian alternative rock	0.7
+ house	0.7
+ funky house	0.7
+ french house	0.7
+ retro soul	0.6
+ folk rock	0.6
+ art pop	0.4
+ worship	0.4
+ christian	0.4
+ quiet storm	0.4
+ future bass	0.4
+ soft pop	0.4
+ deep house	0.4
+ americana	0.3
+ christian rock	0.3
+ ccm	0.3
+ modern blues	0.3
+ singer-songwriter	0.3
+ baroque pop	0.3
+ rock	0.3
+ melodic house	0.3
+ melodic bass	0.3
+ edm	0.3
+ post-hardcore	0.2
+ orchestra	0.2
+ classical	0.2
+ roots rock	0.2
+ surf rock	0.2
+ country	0.2
+ chamber pop	0.2
+ reggae	0.2
+ christmas	0.2
+ funk rock	0.2
+ synthpop	0.2
+ drum and bass	0.2
+ alternative r&b	0.2
+ neo soul	0.1
+ red dirt	0.1
+ texas country	0.1
+ emocore	0.1
+ screamo	0.1
+ disco	0.1
+ skate punk	0.1
+ punk	0.1
+ música mexicana	0.1
+ cumbia	0.1
+ tejano	0.1
+ chamber music	0.1
+ lo-fi house	0.1
+ celtic	0.1
+ soul blues	0.1
+ glam rock	0.1
+ roots reggae	0.1
+ rocksteady	0.1
+ psychedelic pop	0.1
+ modern rock	0.1
+ garage rock	0.1
+ blues rock	0.1
+ rap rock	0.1
+ reggae rock	0.1
+ psychedelic rock	0.1
+ organic house	0.1
+ melodic techno	0.1
+ jazz	0.1
+ adult standards	0.1
+ big band	0.1
+ vocal jazz	0.1
+ alternative rock	0.1
+ indie pop	0.1
+ zouk	0.1
+ downtempo	0.1
+ trip hop	0.1
+ lounge	0.1
+ chillstep	0.1
+ gufeng	0.1
+ electro swing	0.1
+ electronic rock	0.1
+ synthwave	0.1
+ stutter house	0.1
+ norwegian pop	0.1
+ latin house	0.1
+ liquid funk	0.1
+ afropiano	0.1
+ afroswing	0.1
+ azonto	0.1
+ afropop	0.1
+ afrobeat	0.1
+ afrobeats	0.1
+ hip hop	0.1
+ rap	0.1
+ progressive house	0.1

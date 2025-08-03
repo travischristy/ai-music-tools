@@ -1,0 +1,5 @@
+# Core dependencies
+nltk>=3.8.1         # For syllable counting and text analysis
+pyyaml>=6.0.1       # For configuration management
+markdown>=3.5.1     # For markdown parsing
+regex>=2023.10.3    # For advanced pattern matching

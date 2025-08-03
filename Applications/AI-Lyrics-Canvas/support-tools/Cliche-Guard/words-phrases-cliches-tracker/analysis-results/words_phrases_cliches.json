@@ -1,0 +1,233 @@
+[
+  {
+    "id": "1",
+    "root_word_phrase": "broken",
+    "variants": "broke, break, breaks, breaking",
+    "often_combined_with": "dreams, glass, hearts",
+    "severity": "EXTREME",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics",
+    "synonyms": "damaged, torn, split, cracked, wounded, severed",
+    "synonyms_that_rhyme": "spoken, token, woken, open",
+    "synonyms_same_syllables": "damaged, wounded, severed, torn, split"
+  },
+  {
+    "id": "2",
+    "root_word_phrase": "carve",
+    "variants": "carves, carved, carving",
+    "often_combined_with": "out",
+    "severity": "EXTREME",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics",
+    "synonyms": "sculpt, shape, craft, form, build, create",
+    "synonyms_that_rhyme": "starve, curve, swerve, nerve",
+    "synonyms_same_syllables": "shape, craft, form, build, make, forge"
+  },
+  {
+    "id": "3",
+    "root_word_phrase": "chains",
+    "variants": "chain, chained, unchain, unchained",
+    "often_combined_with": "broken, break, release",
+    "severity": "EXTREME",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics",
+    "synonyms": "bonds, ties, links, ropes, restraints, bindings",
+    "synonyms_that_rhyme": "rains, gains, pains, veins, reins",
+    "synonyms_same_syllables": "bonds, ties, links, ropes, cords"
+  },
+  {
+    "id": "4",
+    "root_word_phrase": "echo",
+    "variants": "echoes, echoed",
+    "often_combined_with": "",
+    "severity": "EXTREME",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics, often used for easy rhyme",
+    "synonyms": "rebound, reflect, repeat, mirror, bounce back, ring out",
+    "synonyms_that_rhyme": "let go, say so, you know, below",
+    "synonyms_same_syllables": "rebound, reflect, repeat, mirror, bounce back"
+  },
+  {
+    "id": "5",
+    "root_word_phrase": "fade",
+    "variants": "fading, fades, faded",
+    "often_combined_with": "light, dreams, hope",
+    "severity": "EXTREME",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics",
+    "synonyms": "dim, blur, dissolve, slip away, disappear, drift",
+    "synonyms_that_rhyme": "made, stayed, played, afraid, parade",
+    "synonyms_same_syllables": "dim, blur, drift, slip, melt"
+  },
+  {
+    "id": "6",
+    "root_word_phrase": "forgot",
+    "variants": "forgot, forget, forgotten, forget, forgets",
+    "often_combined_with": "dreams",
+    "severity": "EXTREME",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics",
+    "synonyms": "lost, misplaced, let slip, overlooked, ignored, abandoned",
+    "synonyms_that_rhyme": "hot, shot, got, caught, thought",
+    "synonyms_same_syllables": "lost, missed, dropped, left, skipped"
+  },
+  {
+    "id": "7",
+    "root_word_phrase": "fractured",
+    "variants": "fracture, fractures, fracturing",
+    "often_combined_with": "",
+    "severity": "EXTREME",
+    "context_why_avoid": "Overused by AI as alternative to broken/shattered - now clichéd itself",
+    "synonyms": "damaged, torn, split, cracked, wounded, severed",
+    "synonyms_that_rhyme": "captured, featured, lectured, pictured",
+    "synonyms_same_syllables": "damaged, wounded, severed, torn, split"
+  },
+  {
+    "id": "8",
+    "root_word_phrase": "ignite",
+    "variants": "ignited, ignites",
+    "often_combined_with": "heart, dreams, fire, hope, passion",
+    "severity": "EXTREME",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics",
+    "synonyms": "kindle, light up, set ablaze, start, trigger, awaken",
+    "synonyms_that_rhyme": "bright, sight, light, night, flight",
+    "synonyms_same_syllables": "kindle, light up, set off, start up"
+  },
+  {
+    "id": "9",
+    "root_word_phrase": "paints",
+    "variants": "painted, painting, paint",
+    "often_combined_with": "in the sky, on the wall, on my heart",
+    "severity": "EXTREME",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics",
+    "synonyms": "creates, draws, sketches, colors, designs, illustrates",
+    "synonyms_that_rhyme": "saints, faints, complaints, restraints",
+    "synonyms_same_syllables": "draws, makes, forms, builds, crafts"
+  },
+  {
+    "id": "10",
+    "root_word_phrase": "seam",
+    "variants": "seams",
+    "often_combined_with": "at the seam, bursting",
+    "severity": "EXTREME",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics",
+    "synonyms": "edge, border, junction, connection, line, boundary",
+    "synonyms_that_rhyme": "dream, beam, cream, team, stream",
+    "synonyms_same_syllables": "edge, line, crack, split, gap"
+  },
+  {
+    "id": "11",
+    "root_word_phrase": "shadow",
+    "variants": "shadows, shadowed, overshadow",
+    "often_combined_with": "",
+    "severity": "EXTREME",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics",
+    "synonyms": "silhouette, outline, shade, figure, reflection, darkness",
+    "synonyms_that_rhyme": "meadow, narrow, arrow, shallow, follow",
+    "synonyms_same_syllables": "outline, darkness, figure, cover"
+  },
+  {
+    "id": "12",
+    "root_word_phrase": "shatter",
+    "variants": "shatters, shattered, shattering",
+    "often_combined_with": "dreams, glass",
+    "severity": "EXTREME",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics",
+    "synonyms": "splinter, crack apart, break violently, burst, explode, disintegrate",
+    "synonyms_that_rhyme": "matter, chatter, scatter, flatter, fatter",
+    "synonyms_same_syllables": "splinter, crack up, break down, blow apart"
+  },
+  {
+    "id": "13",
+    "root_word_phrase": "spark",
+    "variants": "sparks, sparked",
+    "often_combined_with": "ignite, light, fire",
+    "severity": "EXTREME",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics",
+    "synonyms": "flash, glimmer, flicker, burst, energy, jolt",
+    "synonyms_that_rhyme": "dark, mark, park, shark, bark",
+    "synonyms_same_syllables": "flash, burst, jolt, charge, shock"
+  },
+  {
+    "id": "14",
+    "root_word_phrase": "static",
+    "variants": "",
+    "often_combined_with": "",
+    "severity": "EXTREME",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics",
+    "synonyms": "interference, noise, chaos, disorder, confusion, turbulence",
+    "synonyms_that_rhyme": "dramatic, automatic, systematic, cinematic",
+    "synonyms_same_syllables": "chaos, noise, mess, blur"
+  },
+  {
+    "id": "15",
+    "root_word_phrase": "unsaid",
+    "variants": "left unsaid, words unsaid",
+    "often_combined_with": "words, dreams",
+    "severity": "EXTREME",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics",
+    "synonyms": "unspoken, silent, withheld, kept quiet, held back, bottled up",
+    "synonyms_that_rhyme": "instead, ahead, read, led, fed",
+    "synonyms_same_syllables": "unspoken, withheld, kept quiet"
+  },
+  {
+    "id": "16",
+    "root_word_phrase": "unseen",
+    "variants": "left unseen, goes unseen",
+    "often_combined_with": "",
+    "severity": "EXTREME",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics",
+    "synonyms": "hidden, invisible, concealed, obscured, veiled, secret",
+    "synonyms_that_rhyme": "between, clean, mean, screen, green",
+    "synonyms_same_syllables": "hidden, secret, veiled, concealed"
+  },
+  {
+    "id": "17",
+    "root_word_phrase": "whisper",
+    "variants": "whispers, whispered",
+    "often_combined_with": "dreams",
+    "severity": "EXTREME",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics",
+    "synonyms": "murmur, breathe, speak softly, confide, tell quietly, share low",
+    "synonyms_that_rhyme": "sister, mister, blister, twister",
+    "synonyms_same_syllables": "murmur, breathe soft, speak low"
+  },
+  {
+    "id": "18",
+    "root_word_phrase": "fault",
+    "variants": "faults, faultline",
+    "often_combined_with": "line, crack, heart, break",
+    "severity": "HIGH",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics",
+    "synonyms": "crack, fissure, break, blame, error, flaw",
+    "synonyms_that_rhyme": "salt, halt, vault, malt, assault",
+    "synonyms_same_syllables": "crack, break, flaw, blame, split"
+  },
+  {
+    "id": "19",
+    "root_word_phrase": "stars",
+    "variants": "star, starry",
+    "often_combined_with": "stars align, sky, bright, shine",
+    "severity": "HIGH",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics",
+    "synonyms": "lights, beacons, points of light, distant suns, celestial bodies, luminaries",
+    "synonyms_that_rhyme": "cars, bars, scars, mars, guitars",
+    "synonyms_same_syllables": "lights, suns, dots, sparks"
+  },
+  {
+    "id": "20",
+    "root_word_phrase": "storm",
+    "variants": "storms, stormy",
+    "often_combined_with": "skies, weather, times, night",
+    "severity": "HIGH",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics",
+    "synonyms": "hurricane, tempest, chaos, fury, rage, turbulence",
+    "synonyms_that_rhyme": "warm, form, swarm, norm, dorm",
+    "synonyms_same_syllables": "rage, fury, chaos, tempest"
+  },
+  {
+    "id": "21",
+    "root_word_phrase": "every step",
+    "variants": "each step, step by step",
+    "often_combined_with": "I take, I make, we go",
+    "severity": "MEDIUM",
+    "context_why_avoid": "AI overuses this word / phrase in lyrics",
+    "synonyms": "each move, every choice, all the ways, each moment, every breath",
+    "synonyms_that_rhyme": "every depth, every breath, every rest",
+    "synonyms_same_syllables": "every move, each moment, all the ways, every choice"
+  }
+]
