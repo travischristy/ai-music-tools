@@ -1,0 +1,57 @@
+.App {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+  min-height: 100vh;
+}
+
+.canvas-block {
+  background: linear-gradient(135deg, #1e293b 0%, #334155 100%);
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #475569;
+  transition: all 0.3s ease;
+}
+
+.canvas-block:hover {
+  border-color: #6366f1;
+  box-shadow: 0 4px 20px rgba(99, 102, 241, 0.1);
+}
+
+.expandable-textarea {
+  min-height: 120px;
+  resize: vertical;
+}
+
+.rhyme-indicator {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin-left: 8px;
+  font-size: 12px;
+  text-align: center;
+  line-height: 20px;
+  font-weight: bold;
+}
+
+.syllable-count {
+  color: #94a3b8;
+  font-size: 12px;
+  margin-left: 8px;
+}
+
+.cliche-highlight {
+  background-color: rgba(239, 68, 68, 0.3);
+  border-radius: 3px;
+  padding: 1px 3px;
+}
+
+.strength-indicator {
+  height: 4px;
+  border-radius: 2px;
+  margin-top: 4px;
+}
+
+.strength-high { background-color: #10b981; }
+.strength-medium { background-color: #f59e0b; }
+.strength-low { background-color: #ef4444; }
