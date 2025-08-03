@@ -5,6 +5,10 @@ Applications/in-dev/projects/audio-mixing&fixing/app-and-plugin-dev/
 # Exclude embedded Git repository
 Applications/style-slotmachine/xcode/Music Tag Slot Machine/
 
+# Exclude large files (>100MB)
+Applications/AI-Lyrics-Canvas/support-tools/Cliche-Guard/words-phrases-cliches-tracker/datasets/lyrics_dataset.csv
+Applications/AI-Lyrics-Canvas/support-tools/Cliche-Guard/words-phrases-cliches-tracker/datasets/ai-human-suno-lyrics-dataset.csv
+
 # General OS files
 .DS_Store
 .DS_Store?
