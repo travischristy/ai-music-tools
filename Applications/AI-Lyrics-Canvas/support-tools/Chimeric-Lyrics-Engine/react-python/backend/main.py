@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from .models import GenerationRequest
+from models import GenerationRequest
 
 app = FastAPI()
 

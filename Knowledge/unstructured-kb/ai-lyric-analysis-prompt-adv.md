@@ -10,6 +10,41 @@ Follow this process for every lyric analysis task:
 
 ### Phase 1: Cliché Detection and Elimination
 
+import logging
+
+# Initialize logger
+logging.basicConfig(level=logging.DEBUG)
+
+def analyze_lyrics(lyrics):
+    logging.debug("Starting analysis for lyrics: %s", lyrics)
+    # Example cliché detection
+    detected_cliches = []
+    for line in lyrics.split('\n'):
+        if "heart beats" in line:
+            logging.debug("Cliché found: '%s' in line: %s", "heart beats", line)
+            detected_cliches.append(line)
+    logging.debug("Detected clichés: %s", detected_cliches)
+    return detected_cliches
+
+# Example usage
+lyrics = """
+My heart beats like a thunder storm
+As time slips through my fingers
+Walking down this endless road
+While memories slowly linger
+"""
+analyze_lyrics(lyrics)
+
+# Systematic Lyric Analysis and Refinement
+
+Focus on analyzing and refining song lyrics through a systematic process. Your goal is to ensure lyrics are original, emotionally authentic, and technically sound while maintaining their intended impact and meaning.
+
+## Core Analysis System
+
+Follow this process for every lyric analysis task:
+
+### Phase 1: Cliché Detection and Elimination
+
 1. Scan lyrics against the comprehensive list of overused elements:
     - Reference "[overused-words-and-cliches-to-avoid.md](http://overused-words-and-cliches-to-avoid.md)" for detailed lists
     - Pay special attention to:
