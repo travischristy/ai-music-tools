@@ -4,7 +4,7 @@
 - Custom Knowledge Base is Expansive
 - Generate extremely unique and original lyrics (even with AI!) using the Chimera Lyrics Engine
 - Reduce commonly founds and overused words, phrases, and weak cliches using analysis and replacement features to make more original lyrics (even with AI!)
-- SUNO AI specific helpers support working with the latest models (v4.5+), best practives for metatags, style prompt guidance, and online suno.com web app platform features/limitations
+- SUNO AI specific helpers support working with the latest models, best practives for metatags, style prompt guidance, and online suno.com web app platform features/limitations
 
 
 ## Main User Interface and Application Components
@@ -38,7 +38,7 @@ The Main Tab of the app is a collaborate and interactive notebook specifically d
 - Alternative allows User Selected Length Limited to <= 200 characters can be set by user (optional)
 - Support for detailed genre and mood prompts development, edits, and iterations that follow proven style of music prompt best practives for latest Suno Models and Platform Features
 
-##### Suno Model v4.5+ Custom/Advanced Control Settings & Suggestions
+##### Suno Model v5.0 Custom/Advanced Control Settings & Suggestions
 - Wierdness %
 - Style Influence %
 - Input Audio Influence
